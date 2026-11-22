@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Blue emergency help post with a glowing light">
+  <rect width="600" height="400" fill="#eaf0f8"/>
+  <rect y="320" width="600" height="80" fill="#b9c6d8"/>
+  <rect x="270" y="90" width="60" height="240" rx="8" fill="#12263f"/>
+  <circle cx="300" cy="70" r="30" fill="#2f7de1"/>
+  <circle cx="300" cy="70" r="55" fill="#2f7de1" opacity="0.2"/>
+  <circle cx="300" cy="70" r="80" fill="#2f7de1" opacity="0.1"/>
+  <rect x="280" y="130" width="40" height="40" rx="6" fill="#ffc83d"/>
+  <rect x="294" y="138" width="12" height="24" fill="#12263f"/>
+  <rect x="288" y="144" width="24" height="12" fill="#12263f"/>
+  <rect x="283" y="190" width="34" height="22" rx="4" fill="#d93a3a"/>
+  <circle cx="300" cy="201" r="6" fill="#fff"/>
+  <rect x="283" y="225" width="34" height="46" rx="4" fill="#3b4f7a"/>
+  <rect x="288" y="232" width="24" height="4" fill="#9fb2d1"/>
+  <rect x="288" y="241" width="24" height="4" fill="#9fb2d1"/>
+  <rect x="288" y="250" width="24" height="4" fill="#9fb2d1"/>
+</svg>
